@@ -25,7 +25,7 @@ The stocks were selected from different sectors to create a diversified portfoli
 
 ---
 
-## Tools Used
+## Tech Stack
 
 - Python
 - Google Colab
@@ -76,35 +76,9 @@ The stocks were selected from different sectors to create a diversified portfoli
 - Portfolio Drawdown
 
 ---
+## Dataset
 
-## Project Structure
-
-```
-Stock-Portfolio-Performance-Analysis/
-│
-├── Stock_Portfolio_Performance_Analysis.ipynb
-├── README.md
-├── requirements.txt
-└── images/
-```
-
----
-
-## How to Run
-
-1. Clone this repository.
-
-```bash
-git clone https://github.com/your-username/Stock-Portfolio-Performance-Analysis.git
-```
-
-2. Install the required libraries.
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Open the notebook in Jupyter Notebook or Google Colab.
+- Data is taken from yfinance.
 
 ---
 
@@ -114,12 +88,3 @@ pip install -r requirements.txt
 - Compare portfolio performance with NIFTY 50
 - Include sector-wise analysis
 - Create an interactive dashboard using Power BI or Streamlit
-
----
-
-## Author
-
-**NKL**
-
-Civil Engineering Undergraduate  
-Jadavpur University
